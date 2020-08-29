@@ -2,4 +2,3 @@ build/*
 ios/*
 .vscode/*
 test/*
-#.packages/*
