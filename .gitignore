@@ -2,3 +2,5 @@ build/*
 ios/*
 .vscode/*
 test/*
+.dart_tool/*
+.idea/*
